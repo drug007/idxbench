@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/idxbench
+idxbench.so
+idxbench.dylib
+idxbench.dll
+idxbench.a
+idxbench.lib
+idxbench-test-*
+*.exe
+*.o
+*.obj
+*.lst

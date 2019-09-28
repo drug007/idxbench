@@ -1,0 +1,6 @@
+name "idxbench"
+description "A minimal D application."
+authors "drug"
+copyright "Copyright © 2019, drug"
+license "proprietary"
+dependency "dstats" version="~>1.0.5"
